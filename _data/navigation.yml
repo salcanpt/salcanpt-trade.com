@@ -2,10 +2,10 @@
 
 - text: Home
   url: /
-- text: About
-  url: /pages/about
 - text: Industries
   url: /pages/industries
+- text: Capabilities
+  url: /pages/capabilities
 - text: Services
   url: /pages/services
 - text: Pages
