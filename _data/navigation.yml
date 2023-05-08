@@ -6,7 +6,9 @@
   url: /pages/industries
 - text: Capabilities
   url: /pages/capabilities
-- text: Services
+- text: Case Studies
+  url: /pages/services
+- text: Careers
   url: /pages/services
 - text: Contact
   url: /pages/contact
