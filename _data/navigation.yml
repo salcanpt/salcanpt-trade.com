@@ -8,22 +8,5 @@
   url: /pages/capabilities
 - text: Services
   url: /pages/services
-- text: Pages
-  url: /
-  submenu:
-  - text: Industries
-    url: /pages/industries
-  - text: Capabilities
-    url: /pages/capabilities
-  - text: Portfolio
-    url: /pages/portfolio   
-  - text: Portfolio Details
-    url: /pages/portfolio-details 
-  - text: About Us
-    url: /pages/about
-  - text: Contact
-    url: /pages/contact
-  - text: 404
-    url: /pages/404
 - text: Contact
   url: /pages/contact
