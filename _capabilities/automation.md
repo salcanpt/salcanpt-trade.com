@@ -3,7 +3,7 @@ layout: featured
 title: Automation
 image: /assets/img/services/01.jpg
 icon: /assets/img/icons/layer-group-solid.svg
-description: We have expertise across many automation platforms including:
+description: We have expertise across many automation platforms.
 ---
 
 <div class="row">
