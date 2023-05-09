@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Automation
-image: /assets/img/services/01.jpg
-icon: /assets/img/icons/layer-group-solid.svg
-description: We have expertise across many automation platforms.
+title: Atomation
+icon: /assets/img/icons/algolia-brands.svg
+image: /assets/img/services/02.jpg
+description: We have expertise across many automation platforms
 ---
 
 <div class="row">
