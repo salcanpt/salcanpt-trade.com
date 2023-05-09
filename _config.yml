@@ -29,7 +29,7 @@ plugins:
 
 cover_image: "/assets/img/bg/page-title.jpg"
 
-#salcan
+#salcan data added by craig
 salcan:
   footertext: "AUtomating your business."
   full_address: "7/80 Ebbern St, Darra QLD 4076"
@@ -51,16 +51,16 @@ salcan:
     comment: "3 Meet with us to <br>success dream <span>business</span>"
     subcomment: "Su-comment here to detail the meaning of the vauge main comment on the slider."
 
-  #The content under the slider on the home page
+  #The content under the slider on the home page.
   home_p1:
     title: "SALCAN Process Technology"
-    body: >-
+    body: >- # this means to ignore newlines, you still need to indent
       SALCAN Process Technology is an Electrical Engineering consultancy and a Licenced Electrical
       Contractor. We seek to understand the needs of our clients to deliver safe, compliant, cost
       effective designs and services. 
   home_p2:
     title: "Process Control and Automation"
-    body: >-
+    body: >- # this means to ignore newlines, you still need to indent
       Innovative process control solutions are a core focus at SALCAN Process Technology. We
       have a proven track record for delivering robust hardware and software platforms. From
       platform selection, panel design, construction and integration, we have a wealth of
@@ -69,7 +69,7 @@ salcan:
       automation system.
   home_p3:
     title: "Hazardous Areas"
-    body: >-
+    body: >- # this means to ignore newlines, you still need to indent
       SALCAN has proven expertise across multiple sectors, from Oil & Gas, Mining,
       Manufacturing and Defence, where Hazardous Areas are present. SALCAN employs Engineers,
       Technicians and Electricians who are trained and competent in all aspects of Hazardous
