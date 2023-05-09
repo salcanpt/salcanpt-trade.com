@@ -29,12 +29,17 @@ plugins:
 
 cover_image: "/assets/img/bg/page-title.jpg"
 
+#salcan
+salcan:
+  footertext: "Test"
 
 #collections
 collections:
   features:
     output: true
   services:
+    output: true
+  capabilities:
     output: true
 
 ########################################################
