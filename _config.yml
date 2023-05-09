@@ -41,7 +41,15 @@ salcan:
   header_phone: "+61 (0) 402 837 716"
   header_email: "info@salcanpt.com"
   home_p1_title: "SALCAN Process Technology"
-  slider_comment1: "Meet with us to <br>success dream <span>business</span>"
+  slider1:
+    comment: "1 Meet with us to <br>success dream <span>business</span>"
+    subcomment: "Su-comment here to detail the meaning of the vauge main comment on the slider."
+  slider2:
+    comment: "2 Meet with us to <br>success dream <span>business</span>"
+    subcomment: "Su-comment here to detail the meaning of the vauge main comment on the slider."
+  slider3:
+    comment: "3 Meet with us to <br>success dream <span>business</span>"
+    subcomment: "Su-comment here to detail the meaning of the vauge main comment on the slider."
   home_p1_body: >-
     SALCAN Process Technology is an Electrical Engineering consultancy and a Licenced Electrical
     Contractor. We seek to understand the needs of our clients to deliver safe, compliant, cost
