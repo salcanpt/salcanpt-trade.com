@@ -31,7 +31,11 @@ cover_image: "/assets/img/bg/page-title.jpg"
 
 #salcan
 salcan:
-  footertext: "Put fotter text here"
+  footertext: "AUtomating your business."
+  full_address: "7/80 Ebbern St, Darra QLD 4076"
+  office_hours: "Mon - Fri 9:00 am - 2:00 PM"
+  enquiry_phone: "Contact us by phone 7 days a week."
+  send_an_email: "Send us and email and we will get back to you as soon as possible."
   header_address: "Darra QLD 4076"
   header_phone: "+61 (0) 402 837 716"
   header_email: "info@salcanpt.com"
