@@ -12,12 +12,12 @@ description: We have expertise across many automation platforms
             <h3>Automation</h3>
             <p>We have expertise across many automation platforms including::
                 <ul>
-                    <li>CODESYS</li>
-                    <li>Rockwell PLC and SCADA</li>
-                    <li>Schneider PLC and SCADA</li>
-                    <li>Siemens PLC and SCADA</li>
-                    <li>Ignition</li>
-                    <li>IIoT</li>
+                    <li style="list-style-type: disc;margin-left:40px">CODESYS</li>
+                    <li style="list-style-type: disc;margin-left:40px">Rockwell PLC and SCADA</li>
+                    <li style="list-style-type: disc;margin-left:40px">Schneider PLC and SCADA</li>
+                    <li style="list-style-type: disc;margin-left:40px">Siemens PLC and SCADA</li>
+                    <li style="list-style-type: disc;margin-left:40px">Ignition</li>
+                    <li style="list-style-type: disc;margin-left:40px">IIoT</li>
                 </ul>
             </p>
         </div>
