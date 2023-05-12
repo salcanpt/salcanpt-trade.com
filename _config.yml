@@ -44,7 +44,7 @@ salcan:
   #The words on the basic pages
   careers: Contact us now for oppertunities in Engieering and Industrial Design.
   casestudies: Below are some exmaple cases studies to concider.
-  indistries:
+  industries:
     energy: >- # this means to ignore newlines, you still need to indent
       SALCAN provides design, construction, integration, commissioning and maintenance services across multiple fuel 
       terminals in Queensland, New South Wales and Victoria.
