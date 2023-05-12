@@ -48,7 +48,7 @@ salcan:
     energy: >- # this means to ignore newlines, you still need to indent
       SALCAN provides design, construction, integration, commissioning and maintenance services across multiple fuel 
       terminals in Queensland, New South Wales and Victoria.
-    oileandgas: >- # this means to ignore newlines, you still need to indent
+    oilandgas: >- # this means to ignore newlines, you still need to indent
       SALCAN provides design and construction services for gas compression and metering facilities.<br>
       We also provide telemetry solutions and SCADA solutions for remote production and testing sites. 
       This includes telemetry solutions using LTE and satellite technology. 
