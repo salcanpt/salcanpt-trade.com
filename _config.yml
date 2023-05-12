@@ -41,6 +41,29 @@ salcan:
   header_phone: "1800 SALCAN"
   header_email: "info@salcanpt.com"
 
+  #The words on the basic pages
+  careers: Contact us now for oppertunities in Engieering and Industrial Design.
+  casestudies: Below are some exmaple cases studies to concider.
+  indistries:
+    energy: >- # this means to ignore newlines, you still need to indent
+      SALCAN provides design, construction, integration, commissioning and maintenance services across multiple fuel 
+      terminals in Queensland, New South Wales and Victoria.
+    oileandgas: >- # this means to ignore newlines, you still need to indent
+      SALCAN provides design and construction services for gas compression and metering facilities.<br>
+      We also provide telemetry solutions and SCADA solutions for remote production and testing sites. 
+      This includes telemetry solutions using LTE and satellite technology. 
+    mining: >- # this means to ignore newlines, you still need to indent
+      SALCAN provides Low Voltage design and lighting design services for maintenance facilities at several QLD mines.<br>
+      SALCAN also provides design and construction services for mill reline and transport equipment. 
+    defence: >- # this means to ignore newlines, you still need to indent
+      SALCAN has delivered projects and maintenance services across multiple Defence locations in Queensland, New South Wales and the Northern Territory.<br>
+      Services include periodic maintenance and inspections for maintenance hangars, and the maintenance of PFAS treatment facilities
+    foodandbeverage: >- # this means to ignore newlines, you still need to indent
+      SALCAN provides control system design and integration services for some of Australia’s largest refrigerated warehouse facilities. 
+                                
+    
+    
+
   
   #The three sliders on the home page
   slider1:
