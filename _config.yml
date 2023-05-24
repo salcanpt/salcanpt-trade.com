@@ -42,7 +42,7 @@ salcan:
   header_email: "info@salcanpt.com"
 
   #The words on the basic pages
-  careers: Contact us now for oppertunities in Engieering and Industrial Design.
+  careers: Contact us now for opportunities in Electrical Engieering and Control Systems Integration.
   casestudies: Below are some exmaple cases studies to concider.
   industries:
     energy: >- # this means to ignore newlines, you still need to indent
