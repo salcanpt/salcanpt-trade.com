@@ -67,14 +67,14 @@ salcan:
   
   #The three sliders on the home page
   slider1:
-    comment: "1 Meet with us to <br>success dream <span>business</span>"
-    subcomment: "Su-comment here to detail the meaning of the vauge main comment on the slider."
+    comment: "1 Meet with us to <br>discuss your <span>project</span>"
+    subcomment: "We will work with you to define objectives and set up for success."
   slider2:
-    comment: "2 Meet with us to <br>success dream <span>business</span>"
-    subcomment: "Su-comment here to detail the meaning of the vauge main comment on the slider."
+    comment: "2 Meet with us to <br>discuss your <span>design requirements</span>"
+    subcomment: "Brown-fields or green-fields, we will work with you towards the most elegant solutions."
   slider3:
-    comment: "3 Meet with us to <br>success dream <span>business</span>"
-    subcomment: "Su-comment here to detail the meaning of the vauge main comment on the slider."
+    comment: "3 Meet with us to <br>discuss your <span>maintenance needs</span>"
+    subcomment: "Our E&I Technical Services group can assist with your preventative and reactive maintenance needs."
 
   #The content under the slider on the home page.
   home_p1:
