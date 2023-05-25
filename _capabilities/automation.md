@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: featured
 title: Automation
 icon: /assets/img/icons/algolia-brands.svg
 image: /assets/img/services/02.jpg
@@ -16,7 +16,7 @@ description: We have expertise across many automation platforms
                     <li style="list-style-type: disc;margin-left:40px">Rockwell PLC and SCADA</li>
                     <li style="list-style-type: disc;margin-left:40px">Schneider PLC and SCADA</li>
                     <li style="list-style-type: disc;margin-left:40px">Siemens PLC and SCADA</li>
-                    <li style="list-style-type: disc;margin-left:40px">Ignition</li>
+                    <li style="list-style-type: disc;margin-left:40px">Inductive Automation Ignition</li>
                     <li style="list-style-type: disc;margin-left:40px">IIoT</li>
                 </ul>
             </p>
