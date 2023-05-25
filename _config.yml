@@ -43,7 +43,7 @@ salcan:
 
   #The words on the basic pages
   careers: Contact us now for opportunities in Electrical Engieering and Control Systems Integration.
-  casestudies: Below are some exmaple cases studies to concider.
+  casestudies: Below are some exmaple cases studies to consider.
   industries:
     energy: >- # this means to ignore newlines, you still need to indent
       SALCAN provides design, construction, integration, commissioning and maintenance services across multiple fuel 
