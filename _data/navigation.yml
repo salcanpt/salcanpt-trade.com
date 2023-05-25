@@ -6,8 +6,8 @@
   url: /pages/industries
 - text: Capabilities
   url: /pages/capabilities
-- text: Case Studies
-  url: /pages/casestudies
+#- text: Case Studies
+#  url: /pages/casestudies
 - text: Careers
   url: /pages/careers
 - text: Contact
